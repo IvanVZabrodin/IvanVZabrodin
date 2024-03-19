@@ -1,4 +1,6 @@
-### Hi there 👋
+### Neovim user, C++ and Python.
+
+![Codewars](https://www.codewars.com/users/CreoCode/badges/small)
 
 <!--
 **IvanVZabrodin/IvanVZabrodin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
