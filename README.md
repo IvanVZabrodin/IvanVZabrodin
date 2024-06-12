@@ -1,6 +1,7 @@
 ### Neovim user, C++ and Python.
 
 ![Codewars](https://www.codewars.com/users/CreoCode/badges/small)
+![ProjectEuler](https://projecteuler.net/profile/communist_coder.png)
 
 <!--
 **IvanVZabrodin/IvanVZabrodin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
