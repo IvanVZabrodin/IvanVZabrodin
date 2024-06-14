@@ -1,6 +1,6 @@
 ### Neovim user, C++ and Python.
 
-![Codewars](https://www.codewars.com/users/CreoCode/badges/small)
+![Codewars](https://www.codewars.com/users/communist_coder/badges/small)
 ![ProjectEuler](https://projecteuler.net/profile/communist_coder.png)
 
 <!--
